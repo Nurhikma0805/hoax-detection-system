@@ -43,8 +43,10 @@ numpy
 ### 📸 Screenshot
 ## Dashboard Utama
 <img width="1231" height="896" alt="Beranda" src="https://github.com/user-attachments/assets/29ef0096-5431-4c1a-b6a1-ac8503fb8987" />
-*Tampilan halaman utama sistem dengan fitur pencarian dan hasil deteksi berita*
+
+Tampilan halaman utama sistem dengan fitur pencarian dan hasil deteksi berita
 
 ## Hasil Deteksi
 <img width="932" height="752" alt="hasil" src="https://github.com/user-attachments/assets/a2674227-213f-4ec6-9d72-9828246a50eb" />
-*Detail informasi analisis berita dengan klasifikasi dan tingkat kepercayaan sistem*
+
+Detail informasi analisis berita dengan klasifikasi dan tingkat kepercayaan sistem
